@@ -1,2 +1,2 @@
-## Add some
+## Editor in sudoers file
 Defaults env_editor,editor=/usr/bin/vi:/usr/bin/vim:/usr/bin/nano 
