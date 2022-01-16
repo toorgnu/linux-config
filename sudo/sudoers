@@ -1,1 +1,2 @@
-## Add some ...
+## Add some
+Defaults env_editor,editor=/usr/bin/vi:/usr/bin/vim:/usr/bin/nano 
