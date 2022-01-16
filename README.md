@@ -1,2 +1,2 @@
 # linux-config
-Personal Linux Configure
+This repository contains my personal configuration of Linux
